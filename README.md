@@ -2,13 +2,13 @@
 
 Trying to learn Arduino (and maybe microcontrollers) by making a CSGO Bomb Prop and Defuse Kit Prop
 
-> **WARNING**
+> [!IMPORTANT]
 > 
 > **THIS IS NOT A REAL BOMB**
 > 
 > Just covering my butt. These are props from the games CSGO / CS2.
 
-> **NOTE**
+> [!NOTE]
 > 
 > This is a personal project for me to learn new things.
 > As a result, I am trying to avoid repositories and other completed projects like these like the plague.
